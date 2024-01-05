@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Arial';
+    color: rgb(247, 247, 247);
+}
+
+.container {
+    margin: 2vh auto;
+}
+
+div.ludo-desc {
+    text-align: left;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+img.ludo-pic {
+    max-width: 60%;
+}
